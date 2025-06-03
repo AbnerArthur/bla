@@ -1,5 +1,3 @@
-# main.py
-
 from dados_eventos import eventos
 from dados_participantes import participantes
 
